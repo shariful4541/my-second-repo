@@ -5,3 +5,9 @@ h1{
 p{
     color: yellow;
 }
+
+h3{
+    color: blue;
+    font-size: 40px;
+    font-weight: 600;
+}
